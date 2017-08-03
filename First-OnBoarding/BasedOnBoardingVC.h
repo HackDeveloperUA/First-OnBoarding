@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BasedOnBoardingVC.h
 //  First-OnBoarding
 //
 //  Created by Uber on 03/08/2017.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface BasedOnBoardingVC : UIViewController
 
+@property NSUInteger pageIndex;
 
 @end
-
